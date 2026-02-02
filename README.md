@@ -1,2 +1,5 @@
-# experimental-data-ml-analysis
-Signal analysis and feature extraction from experimental data, followed by machine learning models (TensorFlow) to estimate parameters and identify patterns.
+# Signal Analysis and Feature Extraction
+
+Exploratory and structured analysis of experimental signal data using Python and Jupyter,
+including feature extraction, statistical evaluation, and a small machine learning extension
+for pattern discovery.
