@@ -1,0 +1,19 @@
+# Data files
+*.pkl
+*.csv
+*.txt
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environments
+.env/
+.venv/
+venv/
+
+# OS
+Thumbs.db
